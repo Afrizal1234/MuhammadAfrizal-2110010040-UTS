@@ -1,0 +1,4 @@
+001 Nike AJ1 Merah 40 2 
+002 Adidas Samba Hitam 41 5 
+004 Compass Gazelle Hitam 40 2 
+005 Compass Gazelle Merah 43 6 
